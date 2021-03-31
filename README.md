@@ -3,7 +3,7 @@ Public domain Telegram bot capable of summarizing text and PDF files, as well as
 
 ![alt text](https://raw.githubusercontent.com/pabloralves/summarize-bot/master/icon/icon.jpg)
 
-Bot icon using free software and C0 images.
+Bot icon made using free software and C0 images.
 
 
 Based on:
