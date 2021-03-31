@@ -26,8 +26,4 @@ How to use bot:
 Notes:
 - All bot messages are in Spanish. Feel free to translate them to your language.
 - It is unlikely this project will be maintained in the future
-
-About specific module licenses:
-- Nltk module used for summarization uses Apache License 2.0
-- pdf2image module used for OCR uses MIT License
-- pytesseract uses Apache License 2.0
+- If using this bot for commercial use, mind the license of the extra modules used: nltk, pdf2image, pytesseract...
