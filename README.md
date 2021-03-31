@@ -1,5 +1,5 @@
 # summarize-bot
-Telegram bot capable of summarizing text and PDF files, as well as answer back with both text and PDF files.
+Public domain Telegram bot capable of summarizing text and PDF files, as well as answer back with both text and PDF files.
 
 ![alt text](https://raw.githubusercontent.com/pabloralves/summarize-bot/master/icon/icon.jpg)
 
@@ -22,3 +22,4 @@ How to use bot:
 
 Notes:
 - All bot messages are in Spanish. Feel free to translate them to your language.
+- It is unlikely this project will be maintained in the future
