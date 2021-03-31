@@ -26,12 +26,11 @@ def escribe_pdf(texto,titulo):
     pdf = FPDF()  
     pdf.add_page()
     
-    #Elimina caracteres que no son latin-1
+    # Remove some troublesome non latin-1 characters
     texto = re.sub(r'[^\x00-\x7f]',r'', texto)
     titulo = re.sub(r'[^\x00-\x7f]',r'', titulo)
     
-    #result = re.sub(r'[^\x00-\x7f]',r'', text)
-    
+    #result = re.sub(r'[^\x00-\x7f]',r'', text)    
     #texto = regex.sub(ur'[^\p{Latin}]', u'', 'pepe')
     #titulo = regex.sub(ur'[^\p{Latin}]', u'', titulo)
     
@@ -62,10 +61,8 @@ def escribe_pdf(texto,titulo):
     
     # Reset y coordinate
     #pdf.y = top
-    
     # Move to computed offset
     #pdf.x = offset 
-    
     #pdf.multi_cell(100,10,texto,1,0)
 
     #Crea el pdf local
@@ -76,6 +73,3 @@ def escribe_pdf(texto,titulo):
     
     return
     #return pdf.output("out/"+titulo.replace(".pdf","")+" (resumen).pdf",'F') 
-
- 
-#escribe_pdf('en un lugar de la manchaasdahdsdkfjghsñfihgsdfo ighsdñofgihsdñfgihs dñlfghsñdlfkghñsdlkghñsldkfhgñlsdkfhgñlsdkhfgñsldkhgñlsdkhfgñlksdhfgñlksdhgñlskdhfñglkshdfñ','Don Quijote')
