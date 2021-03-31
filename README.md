@@ -5,6 +5,7 @@ Telegram bot capable of summarizing text and PDF files, as well as answer back w
 
 Bot icon using free software and C0 images.
 
+
 Based on:
 -Telegram bot template by @magnitopic at: https://github.com/magnitopic/YouTubeCode/blob/master/Python/TelegramBots/TelegramBot.py
 Thank you!
