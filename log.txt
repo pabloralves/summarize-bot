@@ -1,0 +1,51 @@
+
+
+Sesion nueva: 2021-03-31 11:56:42.857411{
+      "update_id": 122161357,
+      "message": {
+            "message_id": 935,
+            "from": {
+                  "id": 383391946,
+                  "is_bot": false,
+                  "first_name": "Pablo",
+                  "language_code": "gl"
+            },
+            "chat": {
+                  "id": 383391946,
+                  "first_name": "Pablo",
+                  "type": "private"
+            },
+            "date": 1617184610,
+            "text": "pepe"
+      }
+}
+
+{
+      "update_id": 122161358,
+      "message": {
+            "message_id": 937,
+            "from": {
+                  "id": 383391946,
+                  "is_bot": false,
+                  "first_name": "Pablo",
+                  "language_code": "gl"
+            },
+            "chat": {
+                  "id": 383391946,
+                  "first_name": "Pablo",
+                  "type": "private"
+            },
+            "date": 1617184624,
+            "text": "Welcome to Magnitopic.com!!! The web page is currently being worked on.\nI plan on making the hole thing using JAM Stack.\nUntil I learn all the necessary technologies and put it all together, you can check out my stuff at the links below.\nFell free to send me an e-mail or a dm on twitter. You can get my Email on my GitHub or Twitter profile.",
+            "entities": [
+                  {
+                        "offset": 11,
+                        "length": 14,
+                        "type": "url"
+                  }
+            ]
+      }
+}
+
+
+Resumen: Until I learn all the necessary technologies and put it all together, you can check out my stuff at the links below.
