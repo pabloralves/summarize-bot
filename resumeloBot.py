@@ -139,7 +139,7 @@ def get_pdf_name(update):
 
 #%%
 # Bot service        
-token = '1583317447:AAFfS4ztKpV4FFx0NyCj1wNLyOC-E51Oqc4' #Given by botfather
+token = 'putYourOwnBotTokenHere' #Given by botfather
 resumelo_bot = BotHandler(token) #Your bot's name
 
 
